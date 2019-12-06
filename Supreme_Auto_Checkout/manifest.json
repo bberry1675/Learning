@@ -1,0 +1,6 @@
+{
+    "name": "Supreme Auto Checkout",
+    "version": "0.1",
+    "description": "A chrome extension which will auto checkout purchases from the supreme web store",
+    "manifest_version": 2
+}
